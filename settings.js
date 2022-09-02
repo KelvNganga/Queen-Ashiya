@@ -39,29 +39,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['𝑲𝒆𝒍𝒗𝒊𝒏']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['𝑲𝒆𝒍𝒗𝒊𝒏']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '254705568310'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = '𝑲𝒆𝒍𝒗𝒊𝒏'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '𝑲𝒆𝒍𝒗𝒊𝒏'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '©𝑲𝒆𝒍𝒗𝒊𝒏Inc.'
 
 global.ig = 'https://github.com/BlackPant'
 
-global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
+global.region = 'Kenya, Nakuru, Naivasha'
 
 global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '𝑲𝒆𝒍𝒗𝒊𝒏'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '𝑲𝒆𝒍𝒗𝒊𝒏'
 
 global.sessionName = 'session'
 
